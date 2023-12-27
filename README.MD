@@ -1,3 +1,4 @@
-
-<h2>Maximizando a Eficiência:Utilizando APIs no Oracle PL/SQL</h2>
-<p>Neste repositório, você encontrará um prompt utilizado como modelo para desenvolver um artigo sobre estratégias avançadas de integração de APIs no Oracle PL/SQL com a ajuda do ChatGPT. Explore o código e o artigo para obter insights sobre práticas eficientes. Boas descobertas! 🚀<p>
+<h2>Elaborando um prompt para auxiliar na criação de artigos.<h2>
+<p>Neste repositório, você encontrará um prompt utilizado como modelo para desenvolver um artigo sobre a integração de APIs no Oracle PL/SQL, é um artigo simples, elaborado com a ajuda do ChatGPT.<p>
+<p>Explore o código e o artigo para obter novos insights e torna-lo cada vez mais eficientes.<p>
+<strong>Boas descobertas! 🚀</strong>
